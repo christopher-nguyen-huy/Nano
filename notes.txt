@@ -1,2 +1,5 @@
 Set tab size, put in .nanorc
 	set tabsize 4
+	
+Enable linewrap
+	set softwrap
